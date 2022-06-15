@@ -1,5 +1,20 @@
-# movieSearcher
+#  Movie Searcher iPhone App
+
+I created a Movie Searcher iPhone App using Xcode.
+
+Features
+
+- GETTING DATA FROM API
+- INTERFACE DESIGN
+- TABLE VIEWS
+- CELLS
 
 
-<img width="372" alt="Screen Shot 2022-06-15 at 2 48 57 PM" src="https://user-images.githubusercontent.com/96572733/173821113-d8d56a2e-4b2f-4eb8-bc96-0629ed33c3b4.png">
-<img width="372" alt="Screen Shot 2022-06-15 at 2 49 14 PM" src="https://user-images.githubusercontent.com/96572733/173821120-239660fb-5f3c-4a0f-86bc-fe9787a7e6e3.png">
+<img width="599" alt="Screen Shot 2022-06-15 at 3 30 39 PM" src="https://user-images.githubusercontent.com/96572733/173827500-ea196a0a-c8e9-4cf7-a1a3-ea7af6fb3c91.png">
+
+ 
+
+
+
+
+
